@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/telegram-sicker-show/static/css/main.d732e3aa.css",
-    "main.js": "/telegram-sicker-show/static/js/main.910057b3.js",
+    "main.css": "/telegram-sicker-show/static/css/main.0b386699.css",
+    "main.js": "/telegram-sicker-show/static/js/main.caec9a4b.js",
     "static/js/453.5bc6a2f8.chunk.js": "/telegram-sicker-show/static/js/453.5bc6a2f8.chunk.js",
     "index.html": "/telegram-sicker-show/index.html",
-    "main.d732e3aa.css.map": "/telegram-sicker-show/static/css/main.d732e3aa.css.map",
-    "main.910057b3.js.map": "/telegram-sicker-show/static/js/main.910057b3.js.map",
+    "main.0b386699.css.map": "/telegram-sicker-show/static/css/main.0b386699.css.map",
+    "main.caec9a4b.js.map": "/telegram-sicker-show/static/js/main.caec9a4b.js.map",
     "453.5bc6a2f8.chunk.js.map": "/telegram-sicker-show/static/js/453.5bc6a2f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d732e3aa.css",
-    "static/js/main.910057b3.js"
+    "static/css/main.0b386699.css",
+    "static/js/main.caec9a4b.js"
   ]
 }
