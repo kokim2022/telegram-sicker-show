@@ -36,7 +36,7 @@ function App() {
       return;
     }
 
-    const corsProxy = 'https://cors-anywhere.herokuapp.com/'; // Replace with your own proxy if needed
+    const corsProxy = 'https://u60ta2bi82.execute-api.ap-southeast-1.amazonaws.com/cors-server?url='; // Replace with your own proxy if needed
 
     fetch(corsProxy + tgsUrl)
       .then(response => {
